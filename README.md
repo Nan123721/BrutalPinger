@@ -4,7 +4,9 @@ Prerequisites:
 Python 3.XX, Nmap, Pythonping
 
 Setup 
+
 sudo apt install nmap. 
+
 sudo pip3 install pythonping
 
 RUN AS ROOT!
